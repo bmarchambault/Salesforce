@@ -31,3 +31,6 @@ BEGIN ADMIN INTERMEDIATE
     --Use formula fields
     --Implement Roll-up Summary Fields
 
+ 28 nov 2020
+ -- create validation rules
+
