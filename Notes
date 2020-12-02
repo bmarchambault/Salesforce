@@ -44,3 +44,4 @@ BEGIN ADMIN INTERMEDIATE
 2 dec 2020
 --finally figured out the hands on to the control access to the org module
 --Control access to objects
+-- Control access to fields
