@@ -45,3 +45,10 @@ BEGIN ADMIN INTERMEDIATE
 --finally figured out the hands on to the control access to the org module
 --Control access to objects
 -- Control access to fields
+-- control access to records
+
+3 dec - 6 dec
+SICK
+
+7 dec 2020
+-- create a role hierarchy
