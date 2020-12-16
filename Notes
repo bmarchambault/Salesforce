@@ -74,4 +74,8 @@ SICK
 -- modify the user experience
     --after creating the fields - user interaction experience is modified.
         --can create global actions so users don't have to navigate to a certain area for certain actions.
+--business logic
+    --adding formulas to do the work
+    -- apply validation conditions for the logic
+    -- create a process that happens automatically for the user.
 
