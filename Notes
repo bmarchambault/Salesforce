@@ -71,3 +71,7 @@ SICK
      -- You can modify the relationship via the schema build
      -- drag and drop fields you want included in the app and label
         ---set security permissions by right clicking.
+-- modify the user experience
+    --after creating the fields - user interaction experience is modified.
+        --can create global actions so users don't have to navigate to a certain area for certain actions.
+
