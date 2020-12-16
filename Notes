@@ -67,4 +67,7 @@ SICK
 
 16 dec 2020
 -- create an app
-
+-- add custom fields
+     -- You can modify the relationship via the schema build
+     -- drag and drop fields you want included in the app and label
+        ---set security permissions by right clicking.
