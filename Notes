@@ -88,6 +88,7 @@ SICK
 -- automate simple business processes with process builder
  -- Apex is a autolaunched flow - and is something more than whats available in the process builder
  dec 29 2020 - came back to this challenge.  could not get it to work.  googled it on youtube, I am doing it according to other users but the challenge still gives me an error.
+ -- check validation rules.  for this hands on challenge it would not work untill all validation rules in both the account and contact objects were made inactive.
 -- guide users through your business processes with flow builder
 
 26 dec 2020
