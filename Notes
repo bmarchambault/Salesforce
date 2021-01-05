@@ -91,15 +91,41 @@ SICK
  -- check validation rules.  for this hands on challenge it would not work untill all validation rules in both the account and contact objects were made inactive.
 -- guide users through your business processes with flow builder
 
+
 26 dec 2020
 -- combine the power of process builder and flow builder
+------------process builder cant post to a community feed, submit for approval, delete records, perform complex logic or create a bunch of relations of a bunch of records at once.  to do these things, configure a complex functionality flow and  apply that flow action to your process or write an Apex which you then add to the process.
+first you build the flow, then call the flow in the build process.
+
+auto launched flows are not screens (which require user input) autolaunched flows are called from from backend things like Apex.
+
 --customize how records get approved with approvals
+
 --new section:  Appexchange basics
 -- get started with Appexchange
 -- navigate appexchange like a super hero
 
 27 dec 2020
 -- install appexchange pkg
+1.	Launch your playground by scrolling to the bottom of this page and clicking Launch.
+2.	If you see a tab that says Get Your Login Credentials, skip to step 3. If not, from the App Launcher, find and open Playground Starter. (Can’t find Playground Starter? Check out the Find the Username and Password for Your Trailhead Playground article on Trailhead Help.)
+3.	Click the Get Your Login Credentials tab. Make a note of the username shown on the page.
+4.	Click Reset My Password. This sends an email to the address associated with your username.
+5.	Click the link in the email. The email also includes your Trailhead Playground username.
+6.	Enter a new password, confirm it, and click Change Password.
+
+Your next step is to connect your Trailhead Playground account to your Trailblazer.me account, so you can install packages into your playground. Trailblazer.me gives you a single identity that you use to log in to AppExchange and other Salesforce-related sites. If you don't want to keep your playground account connected to Trailblazer.me, you can disconnect it after you complete the challenge at the end of this unit.
+
+1.	In a new browser tab, open AppExchange.
+2.	Click your avatar to open your Trailblazer.me account menu, then click Settings.
+3.	In the Salesforce Accounts section, click Connect.
+4.	If you see the Choose a Username page, click Log In with a Different Username. If you see a login page, skip to the next step.
+5.	Enter your Trailhead Playground username and password, then click Log In.
+6.	Click Link Account.
+
 -- new section:  External Services
 --Get started with external services
+-- Define a schema for an External Service
+Schema definition contains what type of input and output included in the call/request to the external web service
+     it also contains the endpoint information and authentication parameters for web services.
 
