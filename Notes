@@ -126,6 +126,9 @@ Your next step is to connect your Trailhead Playground account to your Trailblaz
 -- new section:  External Services
 --Get started with external services
 -- Define a schema for an External Service
+look at the API
 Schema definition contains what type of input and output included in the call/request to the external web service
      it also contains the endpoint information and authentication parameters for web services.
-
+-- Register an External Service
+Named Credentials authenticate our endpoint callouts.
+ - element for a named credential are normally supplied by the external web service and include the URL of a callout endpoint adn its required authentication parameters.
