@@ -132,3 +132,5 @@ Schema definition contains what type of input and output included in the call/re
 -- Register an External Service
 Named Credentials authenticate our endpoint callouts.
  - element for a named credential are normally supplied by the external web service and include the URL of a callout endpoint adn its required authentication parameters.
+8 jan 2021
+-- use external services in a flow
